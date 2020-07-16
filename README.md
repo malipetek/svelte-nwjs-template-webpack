@@ -23,7 +23,7 @@ cd svelte-nwjs-app
 npm install
 ```
 
-...then start [Rollup](https://rollupjs.org) and NWJS:
+Start development:
 
 ```bash
 npm run dev
